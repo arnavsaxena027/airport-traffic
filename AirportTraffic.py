@@ -1,3 +1,5 @@
+# Im still learning this
+
 from ultralytics import YOLO
 import cv2
 
