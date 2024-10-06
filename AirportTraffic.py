@@ -1,4 +1,5 @@
 # Im still learning this
+# Solved the github issue hopefully ;)
 
 from ultralytics import YOLO
 import cv2
